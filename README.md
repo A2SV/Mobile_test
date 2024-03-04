@@ -2,7 +2,7 @@
 The assessment will involve enhancing features and adding code blocks to an existing mobile app.
 The mobile app in question is a news application that currently displays top headlines on the home page and includes a bookmark feature, allowing users to save their favorite news articles for later reference.
 ## Task 1:
-1, Your primary task is to implement the search functionality within the app. This involves designing a search page where users can input keywords to search for specific news articles. The search results should include the following information:
+Your primary task is to implement the search functionality within the app. This involves designing a search page where users can input keywords to search for specific news articles. The search results should include the following information:
 - Image of the news
 - Description of the news
 - Title of the news
