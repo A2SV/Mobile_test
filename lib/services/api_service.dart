@@ -43,7 +43,7 @@ class APIService {
 
 
   // Search Api
-  Future<List<NewModel>> fetchSearch({String? searchQuery,String? from}) async {
+  Future<List<NewModel>> fetchSearch({String? searchQuery, String? from}) async {
     try {
       Response response = await dio.get("/everything", queryParameters: {
         "q": searchQuery,
