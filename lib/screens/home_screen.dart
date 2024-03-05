@@ -37,7 +37,7 @@ class _HomeState extends State<Home> {
                     // showSearch(
                     //     context: context, delegate: SearchScreen());
                     Navigator.of(context).push(MaterialPageRoute(
-                        builder: (c) => const SearchScreen()));
+                        builder: (c) =>  SearchScreen()));
                   },
                   icon: const Icon(
                     Icons.search,
